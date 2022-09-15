@@ -20,6 +20,12 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
   -moz-osx-font-smoothing: grayscale;
 }
   
+.bi-twitter::before { content: "\f5ef"; }
+.bi-facebook::before { content: "\f344"; }
+.bi-instagram::before { content: "\f437"; }
+.bi-linkedin::before { content: "\f472"; }
+
+
   .bi-envelope-fill::before { content: "\f32c"; }
 .bi-envelope-open-fill::before { content: "\f32d"; }
 .bi-envelope-open::before { content: "\f32e"; }
