@@ -398,3 +398,12 @@
   .bxs-quote-alt-right:before {
     content: "\ee82";
   }
+  .bx-chevron-right:before {
+    content: "\ea50";
+  }
+  .bx-chevron-right-circle:before {
+    content: "\ea51";
+  }
+  .bx-chevron-right-square:before {
+    content: "\ea52";
+  }
