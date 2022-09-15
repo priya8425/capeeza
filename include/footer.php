@@ -6,7 +6,9 @@
         <div class="row">
 
           <div class="col-lg-4 col-md-6 footer-contact">
-            <h3>Company</h3>
+            <!-- <h3>Company</h3> -->
+      <a href="index.php" class="logo me-auto pb-2"><img src="assets/img/logo-capeeza.webp" alt="" class="img-fluid"></a>
+
             <p>
               We are located at Pune and<br> Navi Mumbai providing a wide<br>  range of services on PAN India<br> basis and across the Globe. <br><br>
               <strong>Phone:</strong>  +91 9371151356<br>

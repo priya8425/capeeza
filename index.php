@@ -28,6 +28,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/index.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Company - v4.8.0
@@ -338,16 +339,58 @@ include('include/header.php');
 
       </div>
     </section><!-- End Services Section -->
+       <!-- ======= Testimonials Section ======= -->
+       <section id="testimonials" class="testimonials">
+      <div class="container position-relative" data-aos="fade-up">
 
-     <!-- ======= Hero Section ======= -->
-   <!-- ======= Our Clients Section ======= -->
-   <section id="clients" class="clients">
-    <div class="container" data-aos="fade-up">
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
 
-      
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
+                <h3>VIJAY SHAH</h3>
+                <h4>GM, Waft Worldwide</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  I came to Capeeza & the team for their import and export services they’ve since taken on payroll and import and export consulting. 
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
 
-    </div>
-  </section><!-- End Our Clients Section -->
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+                <h3>RAJENDRA SINGH</h3>
+                <h4>CEO, APMC.</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  From accounting, auditing and taxation to very crucial insightful patterns in my books. they helped go from a total mess to an organized work in progress. they are patient and understanding.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <!-- <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt=""> -->
+                <h3>SANJANA RATHOD</h3>
+                <h4>Finance Manager, Kedar Masale</h4>
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  I couldn’t be happier with Capeeza Corp’s business loan services not only did they saved me invaluable time and money, but their knowledge and professionalism saved me many headaches as well. professionalism saved me many headaches as well.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+              </div>
+            </div><!-- End testimonial item -->
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
