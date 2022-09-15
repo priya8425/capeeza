@@ -50,7 +50,7 @@
           </li>
 
           <!-- <li><a href="services.php">Industries We Serve</a></li> -->
-          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="portfolio.php">Industries WE Serve</a></li>
           <!-- <li><a href="pricing.php">Career</a></li> -->
           <li><a href="contact.php">Contact Us</a></li>
 
