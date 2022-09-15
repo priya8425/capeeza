@@ -38,7 +38,9 @@
 </head>
 
 <body>
-
+<?php 
+include('include/header.php');
+?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero">

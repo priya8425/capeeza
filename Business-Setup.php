@@ -43,19 +43,19 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html"><span>Com</span>pany</a></h1>
+      <h1 class="logo me-auto"><a href="index.php"><span>Com</span>pany</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
 
           <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="team.html">Team</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
+              <li><a href="about.php">About Us</a></li>
+              <li><a href="team.php">Team</a></li>
+              <li><a href="testimonials.php">Testimonials</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -68,11 +68,11 @@
             </ul>
           </li>
 
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="contact.html" class="active">Contact</a></li>
+          <li><a href="services.php">Services</a></li>
+          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="pricing.php">Pricing</a></li>
+          <li><a href="blog.php">Blog</a></li>
+          <li><a href="contact.php" class="active">Contact</a></li>
 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -115,17 +115,16 @@
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">International Taxation</h2>
+            <h2 style="color: rgb(10, 10, 10); text-align: center;">Business Setup and Assistance for Start-Ups</h2>
             <hr>
-            <h4>“Going Global” is the vision of today’s businesses.</h4>
+            <h4>Tell prospective customers more about your company and the services you offer here.  Replace this image with one more fitting to your business.</h4>
             <br>
-            <p>When you decide to expand to global frontiers, there are global complexities with regards to taxation. Capeeza provides you with a strategic and integrated tax solution, which enables you to operate across borders by complying with local tax laws.</p>
             <ul>
-                <h4>Capeeza has the right mix of resources who bring their experience in legal, transfer pricing, tax controversy, indirect tax to table and offer:</h4>
-                <br>
-                <li>Compliance to international tax laws</li>
-                <li>Strategy to keep you aligned with the various tax implications</li>
-                
+                <li>Setting up of Public Limited Company, Private Limited Company, Limited Liability Partnership (LLP), Partnership Firm, Sole Proprietor and One Person Company.</li>
+                <li>Consultancy and Drafting all Agreement and Deeds.</li>
+                <li>Business closure of Company, LLP and Partnership.</li>
+                 <li>Liasioning and representation at various govt. levels.</li>
+                 <li>Company Secretary Services.</li>
             </ul>
           <hr>
 

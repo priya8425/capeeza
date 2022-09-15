@@ -43,19 +43,19 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html"><span>Com</span>pany</a></h1>
+      <h1 class="logo me-auto"><a href="index.php"><span>Com</span>pany</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
 
           <li class="dropdown"><a href="#"><span>About</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="team.html">Team</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
+              <li><a href="about.php">About Us</a></li>
+              <li><a href="team.php">Team</a></li>
+              <li><a href="testimonials.php">Testimonials</a></li>
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -68,11 +68,11 @@
             </ul>
           </li>
 
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="contact.html" class="active">Contact</a></li>
+          <li><a href="services.php">Services</a></li>
+          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="pricing.php">Pricing</a></li>
+          <li><a href="blog.php">Blog</a></li>
+          <li><a href="contact.php" class="active">Contact</a></li>
 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -115,22 +115,32 @@
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">Business cannot expect to survive in today's world economy without a clear sense of purpose and a strategy to reach goals.</h2>
+            <h2 style="color: rgb(10, 10, 10); text-align: center;">Free & Impartial Advice!<br>
+                Accounting compliance
+                and reporting</h2>
+                <p style="color: rgb(10, 10, 10); text-align: center;"><b>Accounting & Auditing</b></p>
             <hr>
-            <h4>Capeeza provides the following Advisory and Consultancy services:</h4>
             <ul>
-                <li>Business Advisory</li>
-                <li>Transaction Support</li>
-                <li>Business Valuation</li>
-                 <li>Corporate Finance</li>
-                 <li>Due Diligence</li>
-                 <li>IFRS Advisory</li>
-                 <li>Merger and Acquisition</li>
-                 <li>Private Equity and IPO Support</li>
-                 <li>Corporate Restructuring</li>
-                  <li>Information System and Risk Management</li>
-                  <li>Software Selection</li>
+                <li>Monthly Accounting Compliance</li>
+                <li>Statutory Audit</li>
+                <li>Internal Audit</li>
+                <li>Restructuring,Valuations, Mergers and Amalgamations</li>
             </ul>
+                <br>
+                <h3><b>Fraud Detection & Forensic Audits</b></h3>
+                <p>
+                    We provide fraud detection & forensic audit services to many clients. Fraud investigation includes detailed verifications, evidence collections, legal support for further actions to be taken. It also include post fraud investigation as well as establishing proper internal controls for fraud prevention.<br>
+                </p>
+                <br>
+                <ul>
+                   <b>We have provided fraud investigation services as follows:</b>
+                   <br>
+                   <br>
+                    <li>Funds siphoning & Banking frauds</li>
+                    <li>Sales & Procurement Frauds</li>
+                    <li> Employment Frauds</li>
+                    <li>Information System Frauds</li>
+                </ul>  
           <hr>
 
           </div>
