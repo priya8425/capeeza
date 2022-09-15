@@ -95,13 +95,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-check2-square::before { content: "\f271"; }
 .bi-check2::before { content: "\f272"; }
 
-.bi-currency-bitcoin::before { content: "\f635"; }
-.bi-currency-dollar::before { content: "\f636"; }
-.bi-currency-euro::before { content: "\f637"; }
-.bi-currency-exchange::before { content: "\f638"; }
-.bi-currency-pound::before { content: "\f639"; }
-.bi-currency-yen::before { content: "\f63a"; }
-.bi-currency-rupee::before { content: "\f7ec"; }
+
 
 .bi-question-circle-fill::before { content: "\f504"; }
 .bi-question-circle::before { content: "\f505"; }
