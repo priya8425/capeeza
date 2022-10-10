@@ -1,11 +1,36 @@
+<?php 
+include("admin/_includes/config.php");
+
+if(isset($_POST['submit'])){
+$name=$_POST['name'];
+$phone=$_POST['phone'];
+$subject=$_POST['subject'];
+$email=$_POST['email'];
+$message=$_POST['message'];
+
+
+$sql=mysqli_query($conn,"INSERT INTO `contact`(`name`, `phone`, `subject`, `email`, `message`)
+ VALUES ('$name','$phone','$subject','$email','$message')");
+  
+  if($sql==1){
+     header("location:contact.php");
+  }else{
+      mysqli_error($conn);
+  }
+
+}
+
+?>
+
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contact - Company Bootstrap Template</title>
+  <title>Contact Us - Capeeza</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,12 +54,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Company - v4.8.0
-  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -76,13 +95,13 @@ include('include/header.php');
               <div class="row">
                 <div class="col-lg-6 info">
                   <i class="bi bi-geo-alt"></i>
-                  <h4>Belapur-Navi Mumbai</h4>
-                  <p>Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</p><br>
+                  <h4>Pune</h4>
+                  <p>Kunal Icon Road, Pimple Saudagar, Pune - 411 027</p><br>
                 </div>
                 <div class="col-lg-6 info">
                   <i class="bi bi-geo-alt"></i>
-                  <h4>Ulwe-Navi Mumbai</h4>
-                  <p>Office No. 03, Sai Villa, Plot No. 75, Sector - 20, Ulwe, Navi Mumbai - 410 206</p>
+                  <h4>Belapur-Navi Mumbai</h4>
+                  <p>Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</p><br>
                 </div>
               </div>
                 <div class="row">
@@ -108,7 +127,7 @@ include('include/header.php');
           
           <div class="col-lg-10">
             
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="" method="post" class="php-email-form1">
               
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -121,35 +140,17 @@ include('include/header.php');
               
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Phone No" required>
+                  <input type="text" name="phone" class="form-control" id="name" placeholder="Phone No" required>
                 </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <select class="form-control" name="email" id="email" placeholder="Qualification"><option selected="" disabled="">Qualification</option>
-                    <option value="CA">Chartered Accountant (CA)</option>
-                    <option value="post_graduate">Post Graduate</option>
-                    <option value="graduate">Graduate</option>
-                    <option value="under_graduate">Under Graduate</option></select>
-                 
-                </div>
-              </div>
-              <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Salary Expectation" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Upload Resume" required>
+                  <input type="text" name="subject" class="form-control" id="subject" placeholder="subject" required>
                 </div>
               </div>
 
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit" name="submit">Send Message</button></div>
             </form>
           </div>
       
