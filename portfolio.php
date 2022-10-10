@@ -162,7 +162,7 @@ include('include/header.php');
             <div class="portfolio-info">
               <h4>Renewable Industries</h4>
               
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Renewable Industries"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-9.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Renewable Industries"><i class="bx bx-plus"></i></a>
               
             </div>
           </div>
