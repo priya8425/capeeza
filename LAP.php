@@ -71,16 +71,18 @@ include('include/header.php');
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">Loan Against Property (LAP)</h2>
+            <h2 class="mb-3" style="color: rgb(10, 10, 10); text-align: center;">Loan Against Property (LAP)</h2>
+            <p>Avail Capeeza Corp’s Loan against property for your personal or business needs. Both residential and commercial properties can be mortgaged for taking a loan against property.</p>
             <hr>
-            <h4>Tell prospective customers more about your company and the services you offer here. Replace this image with one more fitting to your business.</h4>
+            <h4>Loan Against Property Key Features</h4>
             <br>
             <ul>
-                <li>Setting up of Public Limited Company, Private Limited Company, Limited Liability Partnership (LLP), Partnership Firm, Sole Proprietor and One Person Company.</li>
-                <li>Consultancy and Drafting all Agreement and Deeds.</li>
-                <li>Business closure of Company, LLP and Partnership.</li>
-                 <li>Liasioning and representation at various govt. levels.</li>
-                 <li>Company Secretary Services.</li>
+                <li>Loan against fully constructed, freehold residential and commercial properties for: Business Needs, Marriage, medical expenses and other personal needs, transferring your outstanding loan availed from another Bank / Financial Institution.</li>
+                <li>Longer tenure, smaller EMIs.</li>
+                <li>Attractive interest rates.</li>
+                 <li>Easy and hassle-free documentation.</li>
+                 <li>Simple repayments through monthly instalments.</li>
+                 <li>Integrated branch network for availing and servicing the loan anywhere in India.</li>
             </ul>
           <hr>
 

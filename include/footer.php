@@ -49,7 +49,7 @@
                 Trimurti pride, Below Bank of Maharashtra, Manchar, Pune - 410 503</a></li>
                 <h6>Pune</h6>
                 <li><i class="bi bi-geo-alt"></i> <a href="#" target="_blank">
-                  Kunal Icon Road, Pimple Saudagar, Pune - 411 027</a></li>
+                F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</a></li>
                   <h6>Navi Mumbai</h6>
                     <li><i class="bi bi-geo-alt"></i> <a href="https://goo.gl/maps/TTrVmwoi2QV2ComZ6" target="_blank">
                       Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</a></li>

@@ -96,7 +96,7 @@ include('include/header.php');
                 <div class="col-lg-6 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Pune</h4>
-                  <p>Kunal Icon Road, Pimple Saudagar, Pune - 411 027</p><br>
+                  <p>F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</p><br>
                 </div>
                 <div class="col-lg-6 info">
                   <i class="bi bi-geo-alt"></i>
