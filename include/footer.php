@@ -7,13 +7,13 @@
 
           <div class="col-lg-4 col-md-6 footer-contact">
             <!-- <h3>Company</h3> -->
-      <a href="index.php" class="logo me-auto pb-2"><img src="assets/img/logo-capeeza.webp" alt="" class="img-fluid"></a>
+      <a href="index.php" class="logo me-auto pb-2"><img src="assets/img/1111.png" alt="" class="img-fluid"></a>
 
             <p>
               We are located at Pune and<br> Navi Mumbai providing a wide<br>  range of services on PAN India<br> basis and across the Globe. <br><br>
               
-              <strong>Phone : </strong>&nbsp   +91 9371151356<br>
               <strong>Email&nbsp : </strong> &nbsp  info@capeezacorp.com<br>
+              <strong>Phone : </strong>&nbsp   +91 9371151356<br>
             </p>
             <div class="header-social-links d-flex mt-3" style="border:none;">
         <a href="https://www.facebook.com/people/Capeeza-Corp-Services/100065622037840/" target="_blank" class="facebook"><i class="bu bi-facebook"></i></a>
@@ -46,10 +46,10 @@
             <ul>
               <h6>Manchar</h6>
               <li><i class="bi bi-geo-alt"></i> <a href="#" target="_blank">
-                Trimurti pride, Below Bank of Maharashtra, Manchar, Pune - 410 503</a></li>
+                Trimurti Pride, Below Bank of Maharashtra, Manchar, Pune - 410 503.</a></li>
                 <h6>Pune</h6>
                 <li><i class="bi bi-geo-alt"></i> <a href="#" target="_blank">
-                F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</a></li>
+                F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014.</a></li>
                   <h6>Navi Mumbai</h6>
                     <li><i class="bi bi-geo-alt"></i> <a href="https://goo.gl/maps/TTrVmwoi2QV2ComZ6" target="_blank">
                       Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</a></li>

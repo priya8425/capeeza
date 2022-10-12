@@ -29,12 +29,14 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Company - v4.8.0
-  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+<style>
+  .preview-link{
+    color:#000;
+  }
+  .preview-link:hover{
+    color:#1bbd36;
+  }
+</style>
 </head>
 
 <body>
@@ -87,123 +89,67 @@ include('include/header.php');
         
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-1.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Import & Export Industry</h4>
+            <!-- <div class="portfolio-info">
               
-              <a href="assets/img/portfolio/portfolio-1.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Import & Export Industry"><i class="bx bx-plus"></i></a>
-            </div>
+              
+              </div> -->
+              <a href="assets/img/portfolio/portfolio-1.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Import & Export Industry"> <h4 class=" pt-2">Import & Export Industry</h4></a>
+           
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Trusts & Hospitals</h4>
-             
-              <a href="assets/img/portfolio/portfolio-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Trusts & Hospitals"><i class="bx bx-plus"></i></a>
-              
-            </div>
+           
+            <a href="assets/img/portfolio/portfolio-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Trusts & Hospitals"><h4 class=" pt-2">Trusts & Hospitals</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-3.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Automobile Sector</h4>
-             
-              <a href="assets/img/portfolio/portfolio-3.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Automobile Sector"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            
+            <a href="assets/img/portfolio/portfolio-3.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Automobile Sector"><h4 class="pt-2">Automobile Sector</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-4.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Cement Manufacturing</h4>
-              
-              <a href="assets/img/portfolio/portfolio-4.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Cement Manufacturing"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            <a href="assets/img/portfolio/portfolio-4.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Cement Manufacturing"><h4 class="pt-2">Cement Manufacturing</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-5.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Petrochemical Industry</h4>
-            
-              <a href="assets/img/portfolio/portfolio-5.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Petrochemical Industry"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            <a href="assets/img/portfolio/portfolio-5.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Petrochemical Industry"><h4 class="pt-2">Petrochemical Industry</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-6.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Printing & Packaging</h4>
-              
-              <a href="assets/img/portfolio/portfolio-6.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Printing & Packaging"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            <a href="assets/img/portfolio/portfolio-6.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Printing & Packaging"><h4 class="pt-2">Printing & Packaging</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-7.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Iron and Steel</h4>
-              
-              <a href="assets/img/portfolio/portfolio-7.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Iron and Steel"><i class="bx bx-plus"></i></a>
-              
-            </div>
+           <a href="assets/img/portfolio/portfolio-7.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Iron and Steel"><h4 class="pt-2">Iron and Steel</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            
             <img src="assets/img/portfolio/portfolio-8.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Co-op Housing Society</h4>
-              
-              <a href="assets/img/portfolio/portfolio-8.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Co-op Housing Society"><i class="bx bx-plus"></i></a>
-             
-            </div>
+            <a href="assets/img/portfolio/portfolio-8.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Co-op Housing Society"><h4 class="pt-2">Co-op Housing Society</h4></a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-9.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Renewable Energy</h4>
-              
-              <a href="assets/img/portfolio/portfolio-9.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Renewable Industries"><i class="bx bx-plus"></i></a>
-              
-            </div>
+           <a href="assets/img/portfolio/portfolio-9.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Renewable Industries"><h4 class="pt-2">Renewable Energy</h4></a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-10.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Educational Institutes</h4>
-             
-              <a href="assets/img/portfolio/portfolio-10.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Educational Institutes"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            <a href="assets/img/portfolio/portfolio-10.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Educational Institutes"><h4 class="pt-2">Educational Institutes</h4></a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-11.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>BFSI</h4>
-              
-              <a href="assets/img/portfolio/portfolio-11.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="BFSI"><i class="bx bx-plus"></i></a>
-              
-            </div>
+         <a href="assets/img/portfolio/portfolio-11.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="BFSI"><h4 class="pt-2">BFSI</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-12.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Textile and Garments</h4>
-              
-              <a href="assets/img/portfolio/portfolio-12.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Textile and Garments"><i class="bx bx-plus"></i></a>
-              
-            </div>
+            <a href="assets/img/portfolio/portfolio-12.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Textile and Garments"><h4 class="pt-2">Textile and Garments</h4></a>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-13.webp" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>IT sector</h4>
-              
-              <a href="assets/img/portfolio/portfolio-13.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="IT sector"><i class="bx bx-plus"></i></a>
-              
-            </div>
+          <a href="assets/img/portfolio/portfolio-13.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="IT sector"><h4 class="pt-2">IT sector</h4></a>
           </div>
         </div>
 

@@ -9,7 +9,7 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
 
       <!-- <h1 class="logo me-auto"><a href="index.php"><span>Com</span>pany</a></h1> -->
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="index.php" class="logo me-auto"><img src="assets/img/logo-capeeza.webp" alt="" class="img-fluid"></a>
+      <a href="index.php" class="logo me-auto"><img src="assets/img/1111.png" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>

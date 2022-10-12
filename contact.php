@@ -126,15 +126,16 @@ include('include/header.php');
 
             <div class="info-wrap">
               <div class="row">
+              <div class="col-lg-6 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Manchar</h4>
+                  <p>Trimurti Pride, Below Bank of Maharashtra, Manchar, Pune - 410 503.</p><br>
+                </div>
+
                 <div class="col-lg-6 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Pune</h4>
-                  <p>F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</p><br>
-                </div>
-                <div class="col-lg-6 info">
-                  <i class="bi bi-geo-alt"></i>
-                  <h4>Manchar</h4>
-                  <p>Trimurti pride, Below Bank of Maharashtra, Manchar, Pune - 410 503.</p><br>
+                  <p>F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014.</p><br>
                 </div>
                
               </div>
