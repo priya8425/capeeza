@@ -71,7 +71,7 @@ include('include/header.php');
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 class="mb-3" style="color: rgb(10, 10, 10); text-align: center;">Loan Against Property (LAP)</h2>
+            <h2 class="mb-3" style="color: rgb(10, 10, 10); text-align: center;">LOAN AGAINST PROPERTY (LAP)</h2>
             <p>Avail Capeeza Corp’s Loan against property for your personal or business needs. Both residential and commercial properties can be mortgaged for taking a loan against property.</p>
             <hr>
             <h4>Loan Against Property Key Features</h4>

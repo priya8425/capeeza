@@ -79,8 +79,8 @@ include('include/header.php');
             <ul>
                 <h4>Capeeza has the right mix of resources who bring their experience in legal, transfer pricing, tax controversy, indirect tax to table and offer:</h4>
                 <br>
-                <li>Compliance to international tax laws</li>
-                <li>Strategy to keep you aligned with the various tax implications</li>
+                <li>Compliance to international tax laws.</li>
+                <li>Strategy to keep you aligned with the various tax implications.</li>
                 
             </ul>
           <hr>

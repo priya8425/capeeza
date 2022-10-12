@@ -91,16 +91,21 @@ include('include/header.php');
 
           <div class="col-lg-10">
 
-            <div class="info-wrap">
+            <!-- <div class="info-wrap">
               <div class="row">
-                <div class="col-lg-6 info">
+                <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
                   <h4>Pune</h4>
                   <p>F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</p><br>
                 </div>
-                <div class="col-lg-6 info">
+                <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
-                  <h4>Belapur-Navi Mumbai</h4>
+                  <h4>Manchar</h4>
+                  <p>Trimurti pride, Below Bank of Maharashtra, Manchar, Pune - 410 503.</p><br>
+                </div>
+                <div class="col-lg-4 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Navi Mumbai</h4>
                   <p>Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</p><br>
                 </div>
               </div>
@@ -117,8 +122,41 @@ include('include/header.php');
                   <p>+91 9371151356</p>
                 </div>
               </div>
-            </div>
+            </div> -->
 
+            <div class="info-wrap">
+              <div class="row">
+                <div class="col-lg-6 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Pune</h4>
+                  <p>F - 03, Ganraj Heights, S.N. 22/8, Sainikwadi, Wadgaon Sheri, Pune - 411 014</p><br>
+                </div>
+                <div class="col-lg-6 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Manchar</h4>
+                  <p>Trimurti pride, Below Bank of Maharashtra, Manchar, Pune - 410 503.</p><br>
+                </div>
+               
+              </div>
+                <div class="row">
+                <div class="col-lg-6 info">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Navi Mumbai</h4>
+                  <p>Office No. 69, Thapar Complex, Plot No. 51, Sec - 15, CBD Belapur, Navi Mumbai - 400 614.</p><br>
+                </div>
+                <div class="col-lg-3 info mt-4 mt-lg-0">
+                  <i class="bi bi-envelope"></i>
+                  <h4>Email:</h4>
+                  <p>info@capeezacorp.com</p>
+                </div>
+
+                <div class="col-lg-3 info mt-4 mt-lg-0">
+                  <i class="bi bi-phone"></i>
+                  <h4>Call:</h4>
+                  <p>+91 9371151356</p>
+                </div>
+              </div>
+            </div>
           </div>
 
         </div>

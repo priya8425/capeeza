@@ -844,11 +844,11 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info {
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   left: 30px;
   right: 30px;
-  bottom: 0;
+  bottom: 20px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
   background: rgba(255, 255, 255, 0.9);
@@ -908,10 +908,10 @@ section {
   color: #57e76f;
 }
 
-.portfolio .portfolio-item:hover .portfolio-info {
+/* .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
   bottom: 20px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details

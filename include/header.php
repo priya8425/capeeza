@@ -26,7 +26,7 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
                                 <li><a href="Tax-Advisory.php" class="TaxAdv <?= $page == 'Tax-Advisory.php' ? 'active':'' ?>">Tax Advisory</a></li>
                                 <li><a href="Business-Advisory.php" class="BusiAdv <?= $page == 'Business-Advisory.php' ? 'active':'' ?>">Business Advisory</a></li>
                                 <li><a href="Business-Setup.php" class="BusiSet <?= $page == 'Business-Setup.php' ? 'active':'' ?>">Business Setup</a></li>
-                                <li><a href="Virtual-CFO.php" class="Virtual <?= $page == 'Virtual-CFO.php' ? 'active':'' ?>">Virtual SFO Services</a></li>
+                                <li><a href="Virtual-CFO.php" class="Virtual <?= $page == 'Virtual-CFO.php' ? 'active':'' ?>">Virtual CFO Services</a></li>
                                 <li><a href="International-Taxation.php" class="IntTax <?= $page == 'International-Taxation.php' ? 'active':'' ?>">International Taxation</a></li>
                 </ul>
               </li>

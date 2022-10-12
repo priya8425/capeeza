@@ -71,7 +71,7 @@ include('include/header.php');
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">Exim Services</h2>
+            <h2 style="color: rgb(10, 10, 10); text-align: center;">EXIM Services</h2>
             
             <br>
             <ul>
@@ -81,12 +81,12 @@ include('include/header.php');
                  <li>EPCG License for duty free import of Machinery (also Post Export Scrip Transferable).</li>
                  <li>Registration cum membership certificate (RCMC).</li>
                  <li>APEDA Export Subsidies i.e. Box subsidy 25% /Reefer van 40% on fruits & veg.</li>
-                 <li>THIRD PARTY EXPORT DOCUMENTATION ( NO NEED TO HIRE EMPLOYEE OR RENT A PLACE - you can just send us packing details, rest everything we will handle).</li>
-                 <li>CUSTOMS REFUNDS AND DUTY DRAWBACK.</li>
-                 <li>SETTING UP OF 100% EOU.</li>
-                 <li>STAR EXPORT HOUSE STATUS.</li>
-                 <li>CHARTERED ENGINEER SERVICES.</li>
-                 <li>AVAIL OUR CONSULTANCY for Export documentation audit,records,advisory services .</li>
+                 <li>Third party export documentation ( No need to hire employee or rent a place - you can just send us packing details, rest everything we will handle).</li>
+                 <li>Customs refunds and duty drawback.</li>
+                 <li>setting up of 100% eou.</li>
+                 <li>star export house status.</li>
+                 <li>Chartered engineer services.</li>
+                 <li>Avail our consultancy for Export documentation audit,records,advisory services .</li>
                 
 
             </ul>

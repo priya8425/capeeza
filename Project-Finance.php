@@ -73,10 +73,9 @@ include('include/header.php');
           <div class="col-lg-10">
             <h2 style="color: rgb(10, 10, 10); text-align: center;">Project Finance</h2>
             <hr>
-            <h2>Project Finance</h2>
+            <h2>Project Finance :-</h2>
             <p>Capeeza Corp is one of the  most experienced project finance groups. we are fully qualified to provide financial and legal advice. </p><br>
-            <h2>What we offer</h2>
-            <br>
+            <h2>What we offer :-</h2>
             <p>We offer a full range of investment banking and management services from project conception to project completion and beyond. We are able to assist our clients in assessing and managing the many variables that can affect the outcome of a project, including the political, social, legal and other risks that are inherent in complex, large scale projects and cross-border transactions</p><br>
             <ul>
               <h4>We have a significant experience in helping clients navigate the complexities on each phase of a transaction including:</h4>
@@ -87,7 +86,7 @@ include('include/header.php');
                  <li>Advising during operational period</li>
             </ul><br>
             <p>International project financing Capeeza Corp has significant experience representing clients in many of the most active regions for project development and finance, including Latin America, Asia, Eastern Europe, Africa and the Middle East. In many regions of the world, such as India, Pakistan, Sub-Saharan Africa and Latin America, our firm has the experience and track record in structured project finance that is second to none.</p><br>
-            <h2>Who we work with</h2>
+            <h2>Who we work with :-</h2>
             <ul>
               <h4>Our large clientele consists of medium, large and multi-national corporations including:</h4>
                 <li>Infrastructure Projects backed by governments or municipality</li>
@@ -97,7 +96,7 @@ include('include/header.php');
                  <li>Private Bankers</li>
                  <li>Universities & Colleges</li>
             </ul><br>
-            <h2>What projects we represent</h2>
+            <h2>What projects we represent :-</h2>
             <ul>
               <h4>We have represented clients in connection with numerous types of asset and project financing including:</h4>
                 <li>Construction and commercial real estate development</li>

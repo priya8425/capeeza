@@ -71,14 +71,14 @@ include('include/header.php');
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">ROC / ROF Compliances</h2>
+            <h2 style="color: rgb(10, 10, 10); text-align: center;">RBI / FEMA Compliances</h2>
             <hr>
             <p>Corporate and Individuals continuously face challenges to comply with FEMA/RBI regulations within the stipulated time, due to the complexities in various industrial segments. Due to globalization, the importance of FEMA/ RBI Compliance has increased manifold. We have an expert team which specifically caters to the following work related to Foreign Exchange Management Act, 1999 as well as other compliances required by the Reserve Bank of India (RBI):</p><br>
             <h2>COMPLIANCE FOR FOREIGN COMPANIES IN INDIA</h2>
             <br>
             <ul>
                 <h4>All new entities setting up Liason Office or Branch Office in India shall:</h4>
-                <li>submit a report containing information, as per format provided in Annex 3 within five working days of the LO/BO becoming functional to the Director General of Police (DGP) of the state concerned in which LO/BO has established its office;</li>
+                <li>Submit a report containing information, as per format provided in Annex 3 within five working days of the LO/BO becoming functional to the Director General of Police (DGP) of the state concerned in which LO/BO has established its office;</li>
                 <li>If there is more than one office of such a foreign entity, in such cases to each of the DGP concerned of the state where it has established office in India;.</li>
                 <li>Branch Offices / Liaison Offices have to file Annual Activity Certificates (AAC) (Annex 4) from Chartered Accountants, at the end of March 31, along with the audited Balance Sheet on or before September 30 of that year. 4. In case the annual accounts of the LO/ BO are finalized with reference to a date other than March 31, the AAC along with the audited Balance Sheet may be submitted within six months from the due date of the Balance Sheet to the designated AD Category I bank, and a copy to the Directorate General of Income Tax (International Taxation), New Delhi along with the audited financial statements including receipt and payment account.</li>
                  

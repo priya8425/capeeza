@@ -73,7 +73,7 @@ include('include/header.php');
           <div class="col-lg-10">
             <h2 style="color: rgb(10, 10, 10); text-align: center;">About Us</h2>
             <hr>
-            <p>Capeeza Corp services offer Professional & Organized services to Businesses, Tax paying Individuals, banks and Institutions such as trust and societies etc.<br>
+            <p>Capeeza Corp Services offer Professional & Organized services to Businesses, Tax paying Individuals, banks and Institutions such as trust and societies etc.<br>
                 <br>
                 Capeeza offers services for business Start-Up, Advisory and Consultation, Statutory Audit, Internal Audit, Taxation Management (Direct & Indirect), Registration of Companies, LLPs & ROC liaising, Financial Project Reports & Consultancy, Valuations and International Taxation. Capeeza also specializes in all kinds of Loans & Import - Export Services.<br>
                 <br>

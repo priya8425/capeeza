@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MAP - Capeeza</title>
+  <title>MCA - Capeeza</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -71,7 +71,7 @@ include('include/header.php');
         <div class="row justify-content-center" data-aos="fade-up">
 
           <div class="col-lg-10">
-            <h2 style="color: rgb(10, 10, 10); text-align: center;">Ministry of Corporate Affairs</h2>
+            <h2 style="color: rgb(10, 10, 10); text-align: center;">Ministry of Corporate Affairs (MCA)</h2>
             <hr>
             <h4>Primary Responsibilities</h4>
             <p>Apart from the regulation of corporate affairs, the Ministry is involved in:</p>
