@@ -36,7 +36,7 @@ $page=substr($_SERVER['SCRIPT_NAME'],strrpos($_SERVER['SCRIPT_NAME'],"/")+1);
                                 <li><a href="Working-Capital.php" class="Acc <?= $page == 'Working-Capital.php' ? 'active':'' ?>">Working &amp; Capital</a></li>
                                 <li><a href="Project-Finance.php" class="TaxAdv <?= $page == 'Project-Finance.php' ? 'active':'' ?>">Project Finance</a></li>
                                 <li><a href="Unsecured-Business-Loan.php" class="BusiAdv <?= $page == 'Unsecured-Business-Loan.php' ? 'active':'' ?>">Unsecured Business Loan</a></li>
-                                <li><a href="LAP.php" class="BusiSet <?= $page == 'LAP.php' ? 'active':'' ?>">Lap</a></li>
+                                <li><a href="LAP.php" class="BusiSet <?= $page == 'LAP.php' ? 'active':'' ?>">Loan Against Property (LAP)</a></li>
                                 <li><a href="Home-Loan.php" class="Virtual <?= $page == 'Home-Loan.php' ? 'active':'' ?>">Home Loan</a></li>
                 </ul>
               </li>

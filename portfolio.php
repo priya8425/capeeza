@@ -99,7 +99,7 @@ include('include/header.php');
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-2.webp" class="img-fluid" alt="">
            
-            <a href="assets/img/portfolio/portfolio-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Trusts & Hospitals"><h4 class=" pt-2">Trusts & Hospitals</h4></a>
+            <a href="assets/img/portfolio/portfolio-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link text-center" title="Trusts & Hospitals"><h4 class=" pt-2">Healthcare</h4></a>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-3.webp" class="img-fluid" alt="">
