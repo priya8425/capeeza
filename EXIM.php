@@ -83,8 +83,8 @@ include('include/header.php');
                  <li>APEDA Export Subsidies i.e. Box subsidy 25% /Reefer van 40% on fruits & veg.</li>
                  <li>Third party export documentation ( No need to hire employee or rent a place - you can just send us packing details, rest everything we will handle).</li>
                  <li>Customs refunds and duty drawback.</li>
-                 <li>setting up of 100% eou.</li>
-                 <li>star export house status.</li>
+                 <li>Setting up of 100% EOU.</li>
+                 <li>Star Export House status.</li>
                  <li>Chartered engineer services.</li>
                  <li>Avail our consultancy for Export documentation audit,records,advisory services .</li>
                 
