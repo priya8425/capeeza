@@ -48,7 +48,7 @@
               <h2>Avail Capeeza Corp’s loan services for your personal or business needs.</h2>
               <p>Capeeza Corp offers home loans which are designed to fulfil all your housing finance/mortgage
                 requirements.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Contact Us</a></div>
+              <div class="text-center"><a href="contact.php" class="btn-get-started">Contact Us</a></div>
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@
               <h2>Avail Capeeza Corp’s loan services for your personal or business needs.</h2>
               <p>Capeeza Corp offers home loans which are designed to fulfil all your housing finance/mortgage
                 requirements.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Contact Us</a></div>
+              <div class="text-center"><a href="contact.php" class="btn-get-started">Contact Us</a></div>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@
               <h2>Avail Capeeza Corp’s loan services for your personal or business needs.</h2>
               <p>Capeeza Corp offers home loans which are designed to fulfil all your housing finance/mortgage
                 requirements.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Contact Us</a></div>
+              <div class="text-center"><a href="contact.php" class="btn-get-started">Contact Us</a></div>
             </div>
           </div>
         </div>
