@@ -67,7 +67,7 @@
         </div>
         
       </div>
-      <div class="credits" style="float: right;">
+      <div class="credits text-center text-md-end">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
